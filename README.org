@@ -1,10 +1,10 @@
-* I Wrote all this Before but I delted it and thats the beauty of the whole internet
+* I Wrote all this Before but I deleted it and thats the beauty of the whole internet
 
 * This is my first github repo it contains configs as I have recently gotten into actually modifying and looking into my distobutions of linux as I have started adminstratating a remote system
 
 ****** Have had multiple servers time to actually learn the backend
 
-****** Org mode is very insteresting and fast to pick up cant wait to use it more often to take notes and mainetain a website
+****** Org mode is very  and fast to pick up cant wait to use it more often to take notes and maintain a website
 
 ****** It even lets me make notes and an agenda and all sorts of fun knick knacks
 
