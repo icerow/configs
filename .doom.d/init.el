@@ -194,16 +194,6 @@
        (default +bindings +smartparens))
 
 
-
-;;awwwwwwwwww shit I Did it Again
-;;
-;;erc customization
-(setq erc-nick "Icerow")
-(setq erc-password "Nariamm1996")
-(setq erc-compute-full-name "Manny Gonzalez")
-
-
-
 ;; ADDED BY ADMIN
 (setq display-line-numbers-type 'absolute) ;sets lines numbers to not move and act wierd
 (setq visible-bell t)
